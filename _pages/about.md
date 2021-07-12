@@ -15,7 +15,7 @@ This is Rémi Adam's webpage
 Laboratoire Leprince-Ringuet<br/>
 CNRS/IN2P3<br/>
 Ecole Polytechnique, Institut Polytechnique de Paris<br/>
-91120 Palaiseau, France<br/>
+91120 Palaiseau, France
 
 email: remi.adam(at)llr.in2p3.fr<br/>
 tel: +33 1 69 33 55 61	
