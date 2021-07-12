@@ -10,7 +10,7 @@ redirect_from:
 
 This is Rémi Adam's webpage
 
-# Contact:
+# Contact
 
 Laboratoire Leprince-Ringuet<br/>
 CNRS/IN2P3<br/>
